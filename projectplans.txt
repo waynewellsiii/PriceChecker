@@ -1,0 +1,38 @@
+Exchanges:
+Bitstamp
+Coinbase
+Coinex
+Kucoin
+Mexc
+Oceanex
+Pancakeswap
+Txbit
+Uniswap
+
+Tokens:
+TRX (Tron)
+BAN (Banano)
+XLM (Stellar)
+XRP (XRP)
+WIN
+
+Factor trading fees in
+
+Withdrawal & network fees
+
+Normalize price across market pairs (cmc)
+
+Feasibility Analysis
+-
+
+Protection against incorrect data  (drastic price jumps)
+-user approval needed if discrepancy % noted exceeds set limit
+
+Alert set when discrepancy detected
+-Sent to users (SMS, Discord) to accept/reject
+ -https://askubuntu.com/a/1104018 % Helpful guide for sending alert notice to users
+-User can specify amount to use in trade
+
+Steps:
+1. feasibilty check
+2.
